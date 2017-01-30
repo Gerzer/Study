@@ -4,6 +4,8 @@
 
 > Copyright (C) 2017 [Gerzer](https://link.gerzer.net/gerzer-home). *Based on [WTFPL](http://www.wtfpl.net) by Sam Hocevar (<sam@hocevar.net>).*
 
+---
+
 Everyone is permitted to distribute and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
 
 ## Terms and Conditions for Duplication, Distribution, and Modification
