@@ -11,7 +11,7 @@
 `STUDY` is the program in which you view and, well, study the content you entered into `INITSTDY`. The program will display a prompt in navy-colored text with three answer choices below in black-colored text, each with a corresponding orange-colored circle. One of the answer choices is correct; the other two are randomly chosen from the answers to other prompts. It is random whether the correct choice is first, second, or third. Use the up and down arrow keys to pick an answer choice and press `[enter]` to confirm your selection. At that point, the green-colored text "CORRECT" will appear if you are correct or the red-colored text "INCORRECT" if you are not. Press [enter] to continue to the next prompt or, if there are no more prompts, to exit the program. Additionally, pressing `[clear]` while on any prompt screen (not the permissions, error, or correct/incorrect screens) will exit the program immediately.
 
 ## INITDRAW
-`INITDRAW` should not be run, modified, renamed, archived, unarchived, or deleted manually. It is automatically executed by STUDY to prepare the Graph Screen for the text and graphics `STUDY` displays. Only modify the Graph Screen manually (zoom, window, format, etc.) once `STUDY` has finished running.
+`INITDRAW` should not be run, modified, renamed, archived, unarchived, or deleted manually. It is automatically executed by `STUDY` to prepare the Graph Screen for the text and graphics `STUDY` displays. Only modify the Graph Screen manually (zoom, window, format, etc.) once `STUDY` has finished running.
 
 ---
 
