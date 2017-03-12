@@ -6,7 +6,7 @@
 
 ---
 
-Everyone is permitted to distribute and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+Everyone is permitted to distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed, too.
 
 ## Terms and Conditions for Duplication, Distribution, and Modification
 
